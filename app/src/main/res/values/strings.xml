@@ -11,4 +11,20 @@
     <string name="title_condition_2">Мелкие повреждения</string>
     <string name="title_condition_3">Есть заметные повреждения</string>
     <string name="title_condition_4">Сильные повреждения</string>
+
+    <string name="title_register">Регистрация</string>
+    <string name="id_register">ID:</string>
+    <string name="id_hint">Введите ID</string>
+    <string name="contact_register">Имя:</string>
+    <string name="contact_hint">Введите имя</string>
+    <string name="phone_register">Телефон:</string>
+    <string name="phone_hint">Введите телефон</string>
+    <string name="email_register">E-mail:</string>
+    <string name="email_hint">Введите e-mail</string>
+    <string name="username_register">User:</string>
+    <string name="username_hint">Введите имя пользователя</string>
+    <string name="password_register">Pass:</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="btn_submit">Добавить</string>
+    <string name="btn_clear">Очистить</string>
 </resources>
